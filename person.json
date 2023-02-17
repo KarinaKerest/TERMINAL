@@ -1,0 +1,28 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "age": 25,
+      "device": {
+        "name": "iPhone",
+        "model": "12 Pro"
+      }
+    },
+    {
+      "name": "Emily",
+      "age": 32,
+      "device": {
+        "name": "Samsung",
+        "model": "Galaxy S21"
+      }
+    },
+    {
+      "name": "Michael",
+      "age": 42,
+      "device": {
+        "name": "Google",
+        "model": "Pixel 6"
+      }
+    }
+  ]
+}
