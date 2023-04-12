@@ -6,7 +6,6 @@
       "device": {
         "name": "iPhone",
         "model": "12 Pro"
-      }
     },
     {
       "name": "Emily",
@@ -14,7 +13,6 @@
       "device": {
         "name": "Samsung",
         "model": "Galaxy S21"
-      }
     },
     {
       "name": "Michael",
@@ -22,7 +20,6 @@
       "device": {
         "name": "Google",
         "model": "Pixel 6"
-      }
     }
   ]
 }
